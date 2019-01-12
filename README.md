@@ -7,7 +7,7 @@ Steve Ellis: https://github.com/sellis4536
 
 Tyler Tompa: https://github.com/tylertompa
 
-Data Discovery Analysis¶
+Data Discovery Analysis
 Individual Federal Campaign Contributions: Presidential, General Election, 2016 
 Data Source: U.S. Federal Elections Commission: https://www.fec.gov/data/browse-data/?tab=candidates
 
