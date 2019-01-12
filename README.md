@@ -2,7 +2,9 @@
 
 ## Contributors:
 https://www.linkedin.com/in/matthew-carty-135b51139/
+
 https://github.com/sellis4536
+
 https://github.com/tylertompa
 
 Data Discovery Analysis¶
