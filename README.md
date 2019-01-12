@@ -1,11 +1,11 @@
 # UNCC_Project_2
 
 ## Contributors:
-https://www.linkedin.com/in/matthew-carty-135b51139/
+Matthew Carty: https://www.linkedin.com/in/matthew-carty-135b51139/
 
-https://github.com/sellis4536
+Steve Ellis: https://github.com/sellis4536
 
-https://github.com/tylertompa
+Tyler Tompa: https://github.com/tylertompa
 
 Data Discovery Analysis¶
 Individual Federal Campaign Contributions: Presidential, General Election, 2016 
