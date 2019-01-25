@@ -7,6 +7,9 @@ Steve Ellis: https://github.com/sellis4536
 
 Tyler Tompa: https://github.com/tylertompa
 
+###Note:
+The dataset for this project is too large for Github.  Please see the following link for the data: https://www.dropbox.com/s/fxr9us998qqgq9x/project_2.zip?dl=0.  Once download, please put the "Data" folder in the root directory (Project 2, so that it's adjacent to app.py and the templates folder).
+
 Data Discovery Analysis
 Individual Federal Campaign Contributions: Presidential, General Election, 2016 
 Data Source: U.S. Federal Elections Commission: https://www.fec.gov/data/browse-data/?tab=candidates
